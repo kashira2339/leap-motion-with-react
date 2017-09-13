@@ -2,6 +2,8 @@
 
 ## Getting started
 
+You need [Leap Motion](https://www.leapmotion.com/).
+
 ```bash
 git clone git@github.com:kashira2339/leap-motion-with-react.git
 cd leap-motion-with-react
